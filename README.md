@@ -75,7 +75,7 @@ $ git push -u origin master
 
 ## Screenshots:
 
-![screenshot2](Screenshotfrom2015-11-15-04:36:41.png)
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/hellojavanativeinterface-melvincabatuan/blob/master/Screenshotfrom2015-11-15-04:36:41.png)
 
 ![screenshot3](device-2015-11-15-045916.png)
 
